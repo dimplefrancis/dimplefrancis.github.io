@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Dimple Francis
-description: "Hi I'm Dimple, and I'm a Data Engineer and Data Science Enthusiast.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi, I'm Dimple. I'm a Data Engineer and a Data Science Enthusiast.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
